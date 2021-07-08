@@ -1,4 +1,4 @@
-# Repositories for my blcokchain references
+# My blockchain references
 
 1. S. Nakamoto, Bitcoin: A Peer-to-Peer Electronic Cash System, https://bitcoin.org/bitcoin.pdf, last viewed July 2021.
 
