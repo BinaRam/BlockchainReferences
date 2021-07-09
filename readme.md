@@ -10,3 +10,7 @@
 
 5. Hankerson D., Menezes A. (2011) Elliptic Curve Cryptography. In: van Tilborg H.C.A., Jajodia S. (eds) Encyclopedia of Cryptography and Security. Springer, Boston, MA. https://doi.org/10.1007/978-1-4419-5906-5_245
 
+6. Koblitz, N. (1987). "Elliptic curve cryptosystems". Mathematics of Computation. 48 (177): 203–209. doi:10.2307/2007884. JSTOR 2007884.
+
+
+
