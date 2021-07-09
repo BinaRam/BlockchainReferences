@@ -8,4 +8,5 @@
 
 4. R. L. Rivest, A. Shamir, and L. Adleman. 1983. A method for obtaining digital signatures and public-key cryptosystems. Commun. ACM 26, 1 (Jan. 1983), 96–99. DOI:https://doi.org/10.1145/357980.358017
 
+5. Hankerson D., Menezes A. (2011) Elliptic Curve Cryptography. In: van Tilborg H.C.A., Jajodia S. (eds) Encyclopedia of Cryptography and Security. Springer, Boston, MA. https://doi.org/10.1007/978-1-4419-5906-5_245
 
