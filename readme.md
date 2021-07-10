@@ -8,6 +8,7 @@
 
 4. R. L. Rivest, A. Shamir, and L. Adleman. 1983. A method for obtaining digital signatures and public-key cryptosystems. Commun. ACM 26, 1 (Jan. 1983), 96–99. DOI:https://doi.org/10.1145/357980.358017
 
+5. R. C. Merkle, "Protocols for Public Key Cryptosystems," 1980 IEEE Symposium on Security and Privacy, 1980, pp. 122-122, doi: 10.1109/SP.1980.10006.
 
 6. Koblitz, N. (1987). "Elliptic curve cryptosystems". Mathematics of Computation. 48 (177): 203–209. doi:10.2307/2007884. JSTOR 2007884.
 
