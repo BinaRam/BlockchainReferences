@@ -14,6 +14,8 @@
 
 7. Haber, S., Stornetta, W.S. How to time-stamp a digital document. J. Cryptology 3, 99–111 (1991). https://doi.org/10.1007/BF00196791
 
+8. David Chaum, Claude Crépeau, and Ivan Damgard. 1988. Multiparty unconditionally secure protocols. In Proceedings of the twentieth annual ACM symposium on Theory of computing (STOC '88). Association for Computing Machinery, New York, NY, USA, 11–19. DOI:https://doi.org/10.1145/62212.62214
+
 7. Hankerson D., Menezes A. (2011) Elliptic Curve Cryptography. In: van Tilborg H.C.A., Jajodia S. (eds) Encyclopedia of Cryptography and Security. Springer, Boston, MA. https://doi.org/10.1007/978-1-4419-5906-5_245
 
 
