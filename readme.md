@@ -20,8 +20,6 @@
 
 10. John (JD) Douceur. The Sybil Attack. Proceedings of 1st International Workshop on Peer-to-Peer Systems (IPTPS) | https://www.microsoft.com/en-us/research/publication/the-sybil-attack/, January 2002
 
+11. Grigg, I. Trile entry Accounting, (2005), https://iang.org/papers/triple_entry.html
 
-7. Hankerson D., Menezes A. (2011) Elliptic Curve Cryptography. In: van Tilborg H.C.A., Jajodia S. (eds) Encyclopedia of Cryptography and Security. Springer, Boston, MA. https://doi.org/10.1007/978-1-4419-5906-5_245
-
-
-
+13. Hankerson D., Menezes A. (2011) Elliptic Curve Cryptography. In: van Tilborg H.C.A., Jajodia S. (eds) Encyclopedia of Cryptography and Security. Springer, Boston, MA. https://doi.org/10.1007/978-1-4419-5906-5_245
