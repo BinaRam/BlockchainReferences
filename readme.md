@@ -24,4 +24,8 @@
 
 12. G. Wood. ETHEREUM: A SECURE DECENTRALISED GENERALISED TRANSACTION LEDGER, (2021), also known as Ethereum Yellow Paper. https://ethereum.github.io/yellowpaper/paper.pdf
 
+13. Leslie Lamport, Robert Shostak, and Marshall Pease. The Byzantine Generals Problem. ACM Transactions on Programming Languages and Systems
+(TOPLAS), 4(3):382–401, July 1982. http://research.microsoft.com/
+en-us/um/people/lamport/pubs/byz.pdf.
+
 13. Hankerson D., Menezes A. (2011) Elliptic Curve Cryptography. In: van Tilborg H.C.A., Jajodia S. (eds) Encyclopedia of Cryptography and Security. Springer, Boston, MA. https://doi.org/10.1007/978-1-4419-5906-5_245
